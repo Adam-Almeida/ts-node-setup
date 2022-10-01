@@ -1,1 +1,3 @@
-const message = 'hello wolrd'
+const message = 'hello wolrds!'
+
+console.log(message)
