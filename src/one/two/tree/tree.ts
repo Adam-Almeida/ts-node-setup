@@ -1,3 +1,6 @@
-import Person from '@/index'
-
-console.log(new Person().sayMyName())
+class Tree {
+  log() {
+    return 3
+  }
+}
+export default Tree

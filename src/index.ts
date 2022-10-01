@@ -1,3 +1,5 @@
+import Tree from '@/one/two/tree/tree'
+
 class Person {
   sayMyName() {
     return 'Adam'
@@ -5,3 +7,5 @@ class Person {
 }
 
 export default Person
+
+console.log(new Tree().log())
